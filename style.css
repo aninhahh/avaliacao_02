@@ -17,3 +17,15 @@ img{
     margin: 30px;
     margin-left: 130px;
 }
+img{
+    width: 250px;
+    margin-left: 300px;
+}
+.cabecalho{
+    background-color: blueviolet;
+    display: flex;
+}
+.logoing{
+    width: 130px;
+    margin-left: 200px;
+}
