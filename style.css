@@ -25,7 +25,19 @@ img{
     background-color: blueviolet;
     display: flex;
 }
-.logoing{
-    width: 130px;
+.logoimg{
+    width: 120px;
     margin-left: 200px;
+}
+.listacabecalho{
+    display: flex;
+    margin-left: 200px;
+    margin-top: 125px;
+}
+.itemlistacabecalho{
+    list-style: none;
+    text-transform: uppercase;
+    color: black;
+    font-size: 30px;
+    padding-left: 35px;
 }
